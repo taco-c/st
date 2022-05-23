@@ -6,6 +6,7 @@ To which I have applied these patches:
 - [alpha](http://st.suckless.org/patches/alpha/)
 - [alpha focus highlight](http://st.suckless.org/patches/alpha_focus_highlight/)
 - [scrollback](http://st.suckless.org/patches/scrollback/)
+- [anysize](https://st.suckless.org/patches/anysize/)
 
 ## Requirements
 
